@@ -1,0 +1,945 @@
+#EXTM3U
+#EXTINF:40,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0,Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:0,BLUEANT ENTERTAIN
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+#EXTINF:0,CELESTIAL MOVIE
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319388026
+#EXTINF:0,MY CINEMA
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319388036
+#EXTINF:0,SINEMA INDONESIA
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319388025
+#EXTINF:0,SONY ONE HD
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319388042
+#EXTINF:0,BLUEANT EXTREME
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+#EXTINF:0,KKTV
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:0,RED BULL HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:0,THRILL
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+#EXTINF:0,THRILL 2
+http://210.210.155.35/session/53cb7f1e-c446-11eb-845d-a3e4a63de879/qwr9ew/s/s34/02.m3u8
+#EXTINF:0,AXN
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+#EXTINF:0,Blue Ant Extreme
+http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
+#EXTINF:0,Blue Ant Extreme
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+#EXTINF:0,CELESTIALMOVIES
+http://playlist.urfan.web.id/qwr9ew/s/s33/01.m3u8
+#EXTINF:0,CINEMAWOLRD
+http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+#EXTINF:0,EggNet
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+#EXTINF:0,GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+#EXTINF:0,HITS
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+#EXTINF:0,Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:0,K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:0,K+
+http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+#EXTINF:0,KIX
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+#EXTINF:0,ONE
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+#EXTINF:0,Sony GEM TV
+http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
+#EXTINF:0,Sony One
+http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
+#EXTINF:0,Sony One
+http://210.210.155.35:80/uq2663/h/h143/01.m3u8?eroz84.wap.sh.m3u8
+#EXTINF:0,THRILL
+http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+#EXTINF:0,TVN
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+#EXTINF:0,TVN ID
+http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
+#EXTINF:0,TVNMOVIES
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+#EXTINF:0,ZEEBIOSKOP
+http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
+#EXTINF:0,Fox Action Movies
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190548
+#EXTINF:0,MyCinema
+http://rr.dens.tv/h/h90/S4/mnf.m3u8
+#EXTINF:0,MyCinema  Europe
+http://rr.dens.tv/h/h18/01.m3u8
+#EXTINF:0,ZEE Bioskop
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8?id=eroz_brebes.m3u8
+#EXTINF:7007,Memoir of a Murderer (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959782
+#EXTINF:0,Metamorphosis (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959780
+#EXTINF:0,Operation Chromite (2016)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959787
+#EXTINF:0,Kim Ji-young Born 1982 (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959775
+#EXTINF:0,Midnight Runners (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959776
+#EXTINF:0,Miss n Mrs. Cops (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959777
+#EXTINF:0,Monstrum (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959783
+#EXTINF:0,Mr. Zoo The Missing (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959781
+#EXTINF:0,My Bossy Girl (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959779
+#EXTINF:0,Nailed (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959785
+#EXTINF:0,New World (2013)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959784
+#EXTINF:0,Okja (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959786
+#EXTINF:0,On Your Wedding Day (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959788
+#EXTINF:0,Parasite (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959789
+#EXTINF:0,Psychokinesis (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959790
+#EXTINF:0,Rampant (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959791
+#EXTINF:0,Secretly Greatly (2013)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959792
+#EXTINF:0,Stand by Me (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959793
+#EXTINF:0,Steel Rain (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959794
+#EXTINF:0,Tazza : One Eyed Jack (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959802
+#EXTINF:0,The Age of Shadows (2016)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959800
+#EXTINF:0,The Divine Fury (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959795
+#EXTINF:0,The Host (2006)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959804
+#EXTINF:0,The Odd Family Zombie On Sale (2019 )
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959796
+#EXTINF:0,The Outlaws (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959799
+#EXTINF:0,The Prison (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959798
+#EXTINF:0,The Wailing (2016)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959797
+#EXTINF:0,The Warriors Way (2010)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959803
+#EXTINF:0,Train to Busan (2016)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959805
+#EXTINF:0,Way Back Home (2013)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959806
+#EXTINF:0,TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+#EXTINF:0,AL IMAN
+http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
+#EXTINF:0,ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+#EXTINF:0,ANTV
+http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+#EXTINF:0,Elshinta
+http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
+#EXTINF:0,INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+#EXTINF:0,Indosiar
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+#EXTINF:0,KOMPAS TV
+http://210.210.155.35:80/qwr9ew/s/s104/02.m3u8
+#EXTINF:0,NET.
+http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=NET.
+#EXTINF:0,RTV
+http://210.210.155.35:80/qwr9ew/s/s12/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=RTV
+#EXTINF:0,RTV
+http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8
+#EXTINF:0,RTV 2
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387550
+#EXTINF:0,SCTV
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+#EXTINF:0,SHOWBIZ
+http://210.210.155.35/x6bnqe/s/s113/index.m3u8
+#EXTINF:0,TVRI BUDAYA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:0,BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:0,Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:0,BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:0,BERITA_SATU
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8?aux=eroz_brebes.m3u8
+#EXTINF:0,BeritaSatu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:0,CNBC
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+#EXTINF:0,CNN 2
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387564
+#EXTINF:0,IDX
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8-mp4a_66000_eng=2.m3u8
+#EXTINF:0,JAKARTA GLOBE
+https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
+#EXTINF:0,JAKARTA GLOBE NEWS
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+#EXTINF:0,JITV [D.I YOGYAKARTA]
+http://202.169.224.76:1935/tv/jitv/chunklist_shareExt.m3u8
+#EXTINF:0,KOMPAS TV
+http://210.210.155.35:80/session/7ed45662-2ed8-11eb-9063-b82a72d63267/qwr9ew/s/s104/01.m3u8
+#EXTINF:0,Kompas TV
+http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
+#EXTINF:0,METRO TV
+http://210.210.155.35:80/uq2663/h/h12/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=Metro_TV
+#EXTINF:0,Metro TV
+http://playlist.urfan.web.id/x6bnqe/h/h12/01.m3u8
+#EXTINF:0,Nusantara TV
+https://v6.siar.us/nusantaratv/live/shareExt_chunks.m3u8
+#EXTINF:0,RCTI
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
+#EXTINF:0,RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:0,TATV SOLO
+http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+#EXTINF:0,TVKU [SEMARANG]
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:0,TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:0,TVRI [DKI JAKARTA]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDki)/index.m3u8
+#EXTINF:0,TVRI [JAWA BARAT]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
+#EXTINF:0,TVRI [JAWA TENGAH]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
+#EXTINF:0,TVRI [JAWA TIMUR]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
+#EXTINF:0,TVRI DKI JAKARTA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+#EXTINF:0,TVRI HD
+http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:0,TVRI NASIONAL
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:0,UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:0,Animax
+http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:0,Aniplus
+http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
+#EXTINF:0,ToonMax
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:0,Mr Bean Show
+https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
+#EXTINF:0,Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:0,ANIMAX
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+#EXTINF:0,Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:0,EBS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
+#EXTINF:0,PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+#EXTINF:0,Rooster Teeth TV
+https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+#EXTINF:0,spacetoon
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
+#EXTINF:0,TVO KIDS
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:0,Nasa Tv
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:0,Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:0,Bisnet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:0,NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
+#EXTINF:0,Poeple Awesome
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:0,SILENCE TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:0,Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0,Bioskop Indonesia
+http://abdrahim.my.id/live/tvindo/citrabioskop.m3u8
+#EXTINF:0,molaTV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:0,DJing Animation
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:0,DJing Classics
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:0,DJing Dancefloor
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:0,DJing Hits
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:0,DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:0,DJing Live
+https://www.djing.com/tv/live.m3u8
+#EXTINF:0,DJing Underground
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:0,Euro Indie Music Chart
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:0,Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:0,MTV Barat
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0,Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:0,MALEO TV
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF:0,Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:0,Iqra TV
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:0,Makkah
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:0,Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
+#EXTINF:0,MUADZ TV
+http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_123.m3u8
+#EXTINF:0,WESAL TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+#EXTINF:0,AR | TyC SPORTS PLAY 1
+https://d3awnlgqz0szay.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_13.m3u8
+#EXTINF:0,AR | TyC SPORTS PLAY 3
+https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index_9.m3u8
+#EXTINF:0,EDGE SPORT HD
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:0,Eurosport
+http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/playlist.m3u8?checkedby=&offset=-147600&useseq=t&version=2
+#EXTINF:0,FIGHT BOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:0,Fox Sport 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:0,MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0,NowSportPrime
+http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:0,OneGolf
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rugby Men's Sevens
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:0,Rugby Women's Sevens
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:0,Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:0,SERI A ITALIA
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:0,Sky 1 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:0,Sky 2 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:0,TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:0,Dawn of the Beast (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/dbd2e455c06d645639621c3188255832/540p/index.m3u8
+#EXTINF:0,Alice Fades Away (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/cfc8d36c9e6095bbb5e21b1b9dc0c6e4/540p/index.m3u8
+#EXTINF:0,Dragon Blade (2015)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959715
+#EXTINF:0,Let the Bullets Fly (2010)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959725
+#EXTINF:0,Red Dot (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/ce5a6a0bd2749698f7d023f2648afae1/540p/index.m3u8
+#EXTINF:0,The Seventh Day (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/ce5f0c2ae334178277dec43638706378/540p/index.m3u8
+#EXTINF:0,400 Bullets (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/bb1a2651013184c22adc299ebc25ef6b/540p/index.m3u8
+#EXTINF:0,60 Seconds to Di3) 2021)
+https://cdn3ii.diebutx.com/own2hls/2020/5038692d826f121309e29ad49c107ae8/540p/index.m3u8
+#EXTINF:0,A Hellkat (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/9b2b1c8362e55234cff9ca547951d6cb/540p/index.m3u8
+#EXTINF:0,American Dream (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/2669184a15ad557b92c61a36df56ed9f/540p/index.m3u8
+#EXTINF:0,American Liar (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/167f6a2fe5cea631ff46c0deb9704ad5/540p/index.m3u8
+#EXTINF:0,Animal World (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959713
+#EXTINF:0,ARMAGEDDON TALES (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/3ca9a047ea086321136a11b7181cfc2a/540p/index.m3u8
+#EXTINF:0,Barb and Star Go to Vista Del Mar (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/5d20ce252956a2a808bd83e149fc08e7/540p/index.m3u8
+#EXTINF:0,Batman: Soul of the Dragon (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/1694a92b5d221c8e456f1e2022cdee98/540p/index.m3u8
+#EXTINF:0,Battle in Space: The Armada Attacks (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/2bf8a120078b6f73c84319135c01fa93/540p/index.m3u8
+#EXTINF:0,Bleeding Steel (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959714
+#EXTINF:0,Bliss (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/10555182f5ce9ad5dd2f2219972151d9/540p/index.m3u8
+#EXTINF:0,Blood Brothers (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/0e7bc1b5824943fc967747d65baed688/540p/index.m3u8
+#EXTINF:0,Bodyguard Ugal-Ugalan (2018)
+http://srv24.nf21.net/files/11-2018-11-09-4d0f5e263c6bc227c1b23c5145c32713.mp4
+#EXTINF:0,Butchers (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/01e0a35bd2450f3152d8bd0f86b86d85/540p/index.m3u8
+#EXTINF:0,Cherry (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/5818591fff4b0d06469111a2daff8a5e/540p/index.m3u8
+#EXTINF:0,Chinese Ghost Story 3: The Enchanting Phantom (2020)
+http://srv32.nf21.net/files/15-2020-05-13-6b781445273bd09f944915f9e2faad2a.mp4
+#EXTINF:0,Come True(2021)
+https://cdn3ii.diebutx.com/own2hls/2020/86c6f1faf0d246563bedb2f53223ca1f/540p/index.m3u8
+#EXTINF:0,Cosmic Sin (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/ccfc9657a73148af93b0de19f35c11a1/540p/index.m3u8
+#EXTINF:0,Counterattack (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c1a7b7f8ea60843fea649a2d0bc119ab/540p/index.m3u8
+#EXTINF:0,Crisis (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/e396a48d24cbda9d7ebda7d9ae76d0ce/540p/index.m3u8
+#EXTINF:0,Dead in the Water (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c60333d65ea8d34b5ff0533c1a83961d/540p/index.m3u8
+#EXTINF:0,Detective Chinatown 2 (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959716
+#EXTINF:0,Detective Dee: The Four Heavenly Kings (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959717
+#EXTINF:0,Doors (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/2afc40deb56b17c21874022bc419fa46/540p/index.m3u8
+#EXTINF:0,Drama  Wildcat (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/2676bc525bdd072c5ad6800571d35e9f/540p/index.m3u8
+#EXTINF:0,Dream About Face-Change Comes True (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/4f3b36b967a44e7db4c0ec8760a1e598/540p/index.m3u8
+#EXTINF:0,Dreamcatcher (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/2ef94737b5792d42c458235771e4a88f/540p/index.m3u8
+#EXTINF:0,Drishyam 2 (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c7ba58ccbaf864a200536abd8396dfdb/540p/index.m3u8
+#EXTINF:0,En Passant P�cho: Les Carottes Sont Cuites (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/07986d6aaa9632efaaa549f693ba2dfd/540p/index.m3u8
+#EXTINF:0,Expiry (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/3f7bb4f0aadea5388c06e8fbdc171b21/540p/index.m3u8
+#EXTINF:0,Faceless (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/3cd77976b7511174e3740cad01c58796/540p/index.m3u8
+#EXTINF:0,Finding 'Ohana (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/d169147a60484e39fedcb7f3481f6f0e/540p/index.m3u8
+#EXTINF:0,Flight 555 (2018)
+http://srv19.nf21.net/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
+#EXTINF:0,From Vegas to Macau II (2015)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959734
+#EXTINF:0,From Vegas to Macau III (2016)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959735
+#EXTINF:0,Girl in the Basement (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/8a3b2b70fdb0b47e0bce326d95e0e605/540p/index.m3u8
+#EXTINF:0,Goodbye Butterfly (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/8dab3c63a76016415e475ed180c00a83/540p/index.m3u8
+#EXTINF:0,Held (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/3524d392bd8a2d5d8e6a5ae401c03d6b/540p/index.m3u8
+#EXTINF:0,Heroes Return (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/12c134f002d2bc4948795126b1c4e9b4/540p/index.m3u8
+#EXTINF:0,Hidden Man (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959718
+#EXTINF:0,HILO 2 (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/87002b78d6977e7cede234e1c442bca9/540p/index.m3u8
+#EXTINF:0,Hunted (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/163ab27b9848d1ae9ee7b6d8bccf07ba/540p/index.m3u8
+#EXTINF:0,Iceman: The Time Traveller (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959719
+#EXTINF:0,Insight (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/55ce55eabcd4cb440dc36d2f7eb1f0a2/540p/index.m3u8
+#EXTINF:0,Ip Man (2008)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959706
+#EXTINF:0,Ip Man 2 (2010)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959707
+#EXTINF:0,Ip Man 3 (2015)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959708
+#EXTINF:0,Ip Man 4: The Finale (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959709
+#EXTINF:0,Ip Man and Four Kings (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959710
+#EXTINF:0,Judas and the Black Messiah (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/f7e247296deba30029c2fcc3323389f3/540p/index.m3u8
+#EXTINF:0,Just Noise (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/b21d35731cf5adc8fb7baa80c1f1f967/540p/index.m3u8
+#EXTINF:0,Kill Cavalry (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/539f72ad9e0453c13c7d5c1137caaafb/540p/index.m3u8
+#EXTINF:0,Kill Zone 2 (2015)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959720
+#EXTINF:0,Kung Fu Hustle (2004)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959722
+#EXTINF:0,Kung Fu League (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959724
+#EXTINF:0,Kung Fu Monster (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959723
+#EXTINF:0,Land (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/db3b50eea11629b38a726701757f12a1/540p/index.m3u8
+#EXTINF:0,London Love Story 3 (2018)
+http://srv19.nf21.net/files/15-2018-08-14-a71af058b7e0658b357ae236e70ac799.mp4
+#EXTINF:0,Master (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/005bddd2e2c6a83d922ac5e942fb5473/540p/index.m3u8
+#EXTINF:0,Monster Hunt 2 (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959726
+#EXTINF:0,Moxie (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/9d065092bc6f35eb6108c49c6c2f1606/540p/index.m3u8
+#EXTINF:0,My Stupid Bos (2016)
+http://srv18.nf21.net/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
+#EXTINF:0,Naga Bonar Jadi 2 (2007)
+http://srv18.nf21.net/files/15-2018-08-06-ea59a563a6a6a0a51ff4356a23035870.mp4
+#EXTINF:0,Nobody (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/6e13167f4c5fb6e47d9dd7380b3776b5/360p/index.m3u8
+#EXTINF:0,Norm of the North: Family Vacation (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/b726c3c74fddd43b3d217ed17fe72f4f/540p/index.m3u8
+#EXTINF:0,Operation Red Sea (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959727
+#EXTINF:0,Palmer (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/3670dbd46fdcfe5fb815ef5532350036/540p/index.m3u8
+#EXTINF:0,Paradise Cove (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/34f988677a4e4a1e48640c9931868f03/540p/index.m3u8
+#EXTINF:0,Paranormal Prison (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/30a1e5249c4ae9ba75844008dfc7fca5/540p/index.m3u8
+#EXTINF:0,Partikelir (2018)
+http://srv19.nf21.net/files/15-2018-08-14-2ce82962771272049ff44e8f27cf3407.mp4
+#EXTINF:0,Payback (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/8a687087286b2a6438af5f5763b5f2e9/540p/index.m3u8
+#EXTINF:0,Peak Rescue (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959728
+#EXTINF:0,Penguin Bloom (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/ce86aaaef93576f14395690ca2c24944/540p/index.m3u8
+#EXTINF:0,Phobias (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/8eff084ddb2ae8f6c2056ceb4e3fe594/540p/index.m3u8
+#EXTINF:0,Project Gutenberg (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959729
+#EXTINF:0,Proud of Love (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/b647f708b11a7ac373660b42881e8ec5/540p/index.m3u8
+#EXTINF:0,Redemption Day (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/d3ea522820faa6d92f51ac15d0bf0a3c/540p/index.m3u8
+#EXTINF:0,Revan & Reina (2018)
+http://srv19.nf21.net/files/15-2018-08-14-b7cf77aba6b14e81c281f9f9cc6d2474.mp4
+#EXTINF:0,Road to Damascus (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/7589b0dc36d3a71a45f8e2f734b305ff/540p/index.m3u8
+#EXTINF:0,Rumput Tetangga (2019)
+https://dl.dropboxusercontent.com/s/spmmhz8vtd02wko/Nonton%20Film%20Rumput%20Tetangga%20%282019%29%20Ganool%20Movie%20Lk21%20Indoxx1%20Subtitle%20Indonesia%20Streaming%20Download%20-%20PlanetFilm21.mp4?dl=0
+#EXTINF:0,Sator (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c49070879371d648e2541f76acf1fa51/540p/index.m3u8
+#EXTINF:0,Shaolin Soccer (2001)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959731
+#EXTINF:0,Shock Wave (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959730
+#EXTINF:0,Shook (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/aed51414b1d9787359892c18c64fef61/540p/index.m3u8
+#EXTINF:0,Silk Road (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/7b666d2d6de4b9e2a6c3b712c3944f56/540p/index.m3u8
+#EXTINF:0,Sky Hunter (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959732
+#EXTINF:0,Space Sweepers (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/b1add098cb4ac360e177435105e4ef75/540p/index.m3u8
+#EXTINF:0,Squared Love (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/4657e7b8e5dd26c505e3099345d4f7cd/540p/index.m3u8
+#EXTINF:0,Stay Out of the F**king Attic (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/1f47020e198f853bfc111e2da3aa5e91/540p/index.m3u8
+#EXTINF:0,Teddy (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/401410ed0d350461833d4b8a058212c9/540p/index.m3u8
+#EXTINF:0,The Arbors (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/41f907567a35e8da06f821d48407336a/360p/index.m3u8
+#EXTINF:0,The Canyonlands (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/93c0518243c11ccd997d582ff44ea700/540p/index.m3u8
+#EXTINF:0,The College Admissions Scandal (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/ed01b097fb58b0e5f7bd3be172a88fe2/540p/index.m3u8
+#EXTINF:0,The Dead of Night (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/132ffb3304451d5f948002ecba8c9b62/540p/index.m3u8
+#EXTINF:0,The Foreigner (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959736
+#EXTINF:0,The Girl on the Train (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/ea5a8116dfa1df8d71575260459d4aa2/540p/index.m3u8
+#EXTINF:0,The Man from Macau (2014)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959733
+#EXTINF:0,The Mauritanian (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/d216527646bd705d1956dd2fe2b502f2/540p/index.m3u8
+#EXTINF:0,The Minimalists: Less Is Now (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/9b45a4d1f070048b8158394ce13e3dca/540p/index.m3u8
+#EXTINF:0,The Monkey King Caused Havoc in Dragon Palace (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959740
+#EXTINF:0,The Patriot (2000)
+http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
+#EXTINF:0,The Pond (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/54e51c6ce7265017fbb12bccb7a41554/540p/index.m3u8
+#EXTINF:0,The Power (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c6863cb6dd663ac179aef272b60fee7b/540p/index.m3u8
+#EXTINF:0,The Red Nightmare (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/b1115353573bdc23a489a1c6653be9d4/540p/index.m3u8
+#EXTINF:0,The Right One (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/67303167dc0d62b40d55ac683ba38f69/540p/index.m3u8
+#EXTINF:0,The Toll (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/7d78072209cbbf5b11783145e5ba86cb/540p/index.m3u8
+#EXTINF:0,The Wandering Earth (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959741
+#EXTINF:0,The Whistleblower (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959737
+#EXTINF:0,The White Tiger (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/5b80bd6b1e549a7baebe25b2de0a579a/540p/index.m3u8
+#EXTINF:0,The Wife (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c0893cdc465d6f9891ae981e356bc59b/540p/index.m3u8
+#EXTINF:0,The Wind Guardians (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959738
+#EXTINF:0,The Yin Yang Master (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/60a4e83ee154b971dd8daf9ec9146b66/540p/index.m3u8
+#EXTINF:0,Thunder Force (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/769174d6904c3acda2034ecedd2179dd/540p/index.m3u8
+#EXTINF:0,Triassic Hunt (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/8c38d7d33f136369e5c0eca7804a1f0c/540p/index.m3u8
+#EXTINF:0,Triple Threat (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959742
+#EXTINF:0,Trust(2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c7f6fcbf0961a1ad754bd1a4d45e2584/540p/index.m3u8
+#EXTINF:0,Twist (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/2664a17549df570378bdffd02aa1702c/540p/index.m3u8
+#EXTINF:0,Vanquish (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
+#EXTINF:0,War Shura (2020)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959743
+#EXTINF:0,We Are Legends (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959747
+#EXTINF:0,Wolf Warrior (2015)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959744
+#EXTINF:0,Wolf Warrior 2 (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959745
+#EXTINF:0,Wrong Turn (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/f175bb157bed3140504f9422f14d06c7/540p/index.m3u8
+#EXTINF:0,Xian qiu da zhan (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959746
+#EXTINF:0,The Legend of The Condor Heroes: The Dragon Tamer
+https://www.googleapis.com/drive/v3/files/1yeTtmh_2_BkApmdQl2xH6qz2_9Rj5uik?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0,The Unholy
+https://www.googleapis.com/drive/v3/files/133HJiRfc6kwN4pQSSNaK-StFi-AQjChr?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0,Master Z: The Ip Man Legacy (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959711
+#EXTINF:0,Agent Revelation (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/d0adfce9414c05dc3f5fde984012a1c7/540p/index.m3u8
+#EXTINF:0,Cruella (2021)
+http://admin.nf21.net/go/files/19286
+#EXTINF:0,The Conjuring : The Devil Made Me Do It (2021)
+http://admin.nf21.net/go/files/19354
+#EXTINF:0,Seance (2021)
+http://admin.nf21.net/go/files/19109
+#EXTINF:0,The Djinn (2021)
+http://admin.nf21.net/go/files/18809
+#EXTINF:0,Army of the Dead (2021)
+http://admin.nf21.net/go/files/19051
+#EXTINF:0,Bajaj Bajuri: The Movie (2014)
+http://srv28.nf21.net/files/6-2019-03-05-7957077294aed7aae01ed7548527c194.mp4
+#EXTINF:0,Cek Toko Sebelah (2016)
+http://srv18.nf21.net/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
+#EXTINF:0,Ayat-Ayat Cinta 2 (2017)
+http://srv24.nf21.net/files/15-2018-11-07-31623f82f631e22f304dc61fb9ae9975.mp4
+#EXTINF:0,Benyamin Biang Kerok (2018)
+http://srv19.nf21.net/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp4
+#EXTINF:0,Galih Dan Ratna (2017)
+http://srv18.nf21.net/files/15-2018-08-07-cad79a652ba7fd037ca11444b3bd3f5f.mp4
+#EXTINF:0,Hanum & Rangga: Faith & The City (2018)
+http://srv28.nf21.net/files/11-2019-03-07-8575570eddbaea877dd7dce2a6a28d20.mp4
+#EXTINF:0,Insya Allah Sah 2 (2018)
+http://srv24.nf21.net/files/10-2018-11-04-dcbe1927ad12c18b3d39efe1e310b3b5.mp4
+#EXTINF:0,Rompis (2018)
+http://srv28.nf21.net/files/15-2019-02-23-ba65b1712e9d0845b97ec790b4fa2b4b.mp4
+#EXTINF:0,Sepatu Dahlan (2014)
+http://srv28.nf21.net/files/6-2019-03-06-f7ab0cb8265616f14077202dc234ff7a.mp4
+#EXTINF:0,Suatu Hari Nanti (2017)
+http://srv18.nf21.net/files/15-2018-08-11-3d7d79b7e00aba5df3c61ce465e11cf8.mp4
+#EXTINF:0,Terbang: Menembus Langit (2018)
+http://srv28.nf21.net/files/11-2019-01-06-a873ac71241a867fe2aaeea36ecbe60c.mp4
+#EXTINF:0,Detective Chinatown 2
+https://www.googleapis.com/drive/v3/files/1uf52V0zGUidIaJOtK9xRihLe4WjInmiQ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0,Dynasty Warriors : Destiny of an Emperor
+https://www.googleapis.com/drive/v3/files/1yi4n1GxAKakEcC9A1dgTYGokyr0Hw35t?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0,Adab Makan
+http://www.supercartube.com/media/videos/h264/324_1080p.mp4
+#EXTINF:0,Adab Tidur
+http://www.supercartube.com/media/videos/h264/322_1080p.mp4
+#EXTINF:0,Adzan
+http://www.supercartube.com/media/videos/h264/345_1080p.mp4
+#EXTINF:0,Aku Kuat Karenamu (Ost. Nussa Bisa)
+http://www.supercartube.com/media/videos/h264/329_1080p.mp4
+#EXTINF:0,Ayo Berdzikir
+http://www.supercartube.com/media/videos/h264/347_1080p.mp4
+#EXTINF:0,Ayo Olahraga !!!
+http://www.supercartube.com/media/videos/h264/348_1080p.mp4
+#EXTINF:0,Belajar Dari Lebah
+http://www.supercartube.com/media/videos/h264/356_1080p.mp4
+#EXTINF:0,Belajar Ikhlas
+http://www.supercartube.com/media/videos/h264/334_1080p.mp4
+#EXTINF:0,Bersih Kota Kita Bersih Indonesia
+http://www.supercartube.com/media/videos/h264/330_1080p.mp4
+#EXTINF:0,Bukan Mahram
+http://www.supercartube.com/media/videos/h264/363_1080p.mp4
+#EXTINF:0,Bulan Hijriyah Penuh Berkah
+http://www.supercartube.com/media/videos/h264/336_1080p.mp4
+#EXTINF:0,Cintai Ibu dan Ayah
+http://www.supercartube.com/media/videos/h264/365_1080p.mp4
+#EXTINF:0,Cintai Mereka
+http://www.supercartube.com/media/videos/h264/349_1080p.mp4
+#EXTINF:0,Cuci Tangan Yuk !!!
+http://www.supercartube.com/media/videos/h264/352_1080p.mp4
+#EXTINF:0,Dahsyatnya Basmallah
+http://www.supercartube.com/media/videos/h264/326_1080p.mp4
+#EXTINF:0,Gak Takut!
+http://www.supercartube.com/media/videos/h264/321_1080p.mp4
+#EXTINF:0,Gigi Nussa Copot
+http://www.supercartube.com/media/videos/h264/360_1080p.mp4
+#EXTINF:0,Girls Talk
+http://www.supercartube.com/media/videos/h264/350_1080p.mp4
+#EXTINF:0,Gratis Pahala
+http://www.supercartube.com/media/videos/h264/354_1080p.mp4
+#EXTINF:0,Huruf Hijaiyah
+http://www.supercartube.com/media/videos/h264/353_1080p.mp4
+#EXTINF:0,Ingin Seperti Umma
+http://www.supercartube.com/media/videos/h264/361_1080p.mp4
+#EXTINF:0,Jadi Suka Sayur
+http://www.supercartube.com/media/videos/h264/366_1080p.mp4
+#EXTINF:0,Jangan Berisik !!!
+http://www.supercartube.com/media/videos/h264/332_1080p.mp4
+#EXTINF:0,Jangan Bicara
+http://www.supercartube.com/media/videos/h264/355_1080p.mp4
+#EXTINF:0,Jangan Boros
+http://www.supercartube.com/media/videos/h264/337_1080p.mp4
+#EXTINF:0,Jangan Kalah Sama Setan
+http://www.supercartube.com/media/videos/h264/340_1080p.mp4
+#EXTINF:0,Jangan Lalai
+http://www.supercartube.com/media/videos/h264/367_1080p.mp4
+#EXTINF:0,Jangan Sombong !!!
+http://www.supercartube.com/media/videos/h264/351_1080p.mp4
+#EXTINF:0,Jumat Hari Raya
+http://www.supercartube.com/media/videos/h264/333_1080p.mp4
+#EXTINF:0,Kak Nussa !!
+http://www.supercartube.com/media/videos/h264/339_1080p.mp4
+#EXTINF:0,Latihan Puasa
+http://www.supercartube.com/media/videos/h264/364_1080p.mp4
+#EXTINF:0,Makan Jangan Asal Makan
+http://www.supercartube.com/media/videos/h264/323_1080p.mp4
+#EXTINF:0,Merdeka !!!
+http://www.supercartube.com/media/videos/h264/358_1080p.mp4
+#EXTINF:0,Ngobrol Bareng Nussa dan Rarra
+http://www.supercartube.com/media/videos/h264/327_1080p.mp4
+#EXTINF:0,Nussa Bisa (Spesial)
+http://www.supercartube.com/media/videos/h264/343_1080p.mp4
+#EXTINF:0,Puasa Pertama Rarra
+http://www.supercartube.com/media/videos/h264/325_1080p.mp4
+#EXTINF:0,Rarra Sakit
+http://www.supercartube.com/media/videos/h264/342_1080p.mp4
+#EXTINF:0,Rukun Islam
+http://www.supercartube.com/media/videos/h264/344_1080p.mp4
+#EXTINF:0,Sedia Payung Sebelum Hujan
+http://www.supercartube.com/media/videos/h264/346_1080p.mp4
+#EXTINF:0,Senyum Itu Sedekah
+http://www.supercartube.com/media/videos/h264/328_1080p.mp4
+#EXTINF:0,Siapa Kita
+http://www.supercartube.com/media/videos/h264/335_1080p.mp4
+#EXTINF:0,Tak Bisa Balas
+http://www.supercartube.com/media/videos/h264/341_1080p.mp4
+#EXTINF:0,Teman Baru Rarra
+http://www.supercartube.com/media/videos/h264/359_1080p.mp4
+#EXTINF:0,Yaah... Hujan
+http://www.supercartube.com/media/videos/h264/338_1080p.mp4
+#EXTINF:0,Lagu - Assalamualaikum
+http://www.supercartube.com/media/videos/h264/401_720p.mp4
+#EXTINF:0,Lagu - Jom Jujur
+http://www.supercartube.com/media/videos/h264/417_720p.mp4
+#EXTINF:0,Lagu - Alhamdulillah
+http://www.supercartube.com/media/videos/h264/388_720p.mp4
+#EXTINF:0,Lagu - Berbaik Dengan Jiran
+http://www.supercartube.com/media/videos/h264/404_720p.mp4
+#EXTINF:0,Lagu - Bismillahirrahmanirrahim
+http://www.supercartube.com/media/videos/h264/392_720p.mp4
+#EXTINF:0,Lagu - Doa Naik Kenderaan
+http://www.supercartube.com/media/videos/h264/423_720p.mp4
+#EXTINF:0,Lagu - Haiwan Hebat
+http://www.supercartube.com/media/videos/h264/419_1080p.mp4
+#EXTINF:0,Lagu - Hormati Yang Tua
+http://www.supercartube.com/media/videos/h264/397_720p.mp4
+#EXTINF:0,Lagu - Insya-Allah
+http://www.supercartube.com/media/videos/h264/405_720p.mp4
+#EXTINF:0,Lagu - Jaga Kebersihan
+http://www.supercartube.com/media/videos/h264/408_720p.mp4
+#EXTINF:0,Lagu - Jangan Membazir
+http://www.supercartube.com/media/videos/h264/396_720p.mp4
+#EXTINF:0,Lagu - Kami Suka Kucing
+http://www.supercartube.com/media/videos/h264/395_720p.mp4
+#EXTINF:0,Lagu - Kejutan Untuk Papa (Istimewa)
+http://www.supercartube.com/media/videos/h264/413_720p.mp4
+#EXTINF:0,Lagu - Kongsi
+http://www.supercartube.com/media/videos/h264/421_720p.mp4
+#EXTINF:0,Lagu - Kutip Dan Buang
+http://www.supercartube.com/media/videos/h264/420_720p.mp4
+#EXTINF:0,Lagu - Lukis Sama-Sama (Istimewa)
+http://www.supercartube.com/media/videos/h264/416_720p.mp4
+#EXTINF:0,Lagu - Main Sama-Sama
+http://www.supercartube.com/media/videos/h264/390_720p.mp4
+#EXTINF:0,Lagu - Mari Berkebun
+http://www.supercartube.com/media/videos/h264/398_1080p.mp4
+#EXTINF:0,Lagu - Mari Berusaha
+http://www.supercartube.com/media/videos/h264/403_720p.mp4
+#EXTINF:0,Lagu - Mari Ke Masjid
+http://www.supercartube.com/media/videos/h264/399_720p.mp4
+#EXTINF:0,Lagu - Misi Sedekah
+http://www.supercartube.com/media/videos/h264/415_720p.mp4
+#EXTINF:0,Lagu - Oh Meriahnya Raya (ft Siti Nordiana)
+http://www.supercartube.com/media/videos/h264/414_720p.mp4
+#EXTINF:0,Lagu - Oh Meriahnya Raya (ft Siti Nordiana)
+http://www.supercartube.com/media/videos/h264/422_720p.mp4
+#EXTINF:0,Lagu - Orang Solat Hebat
+http://www.supercartube.com/media/videos/h264/412_720p.mp4
+#EXTINF:0,Lagu - Sabar Bila Marah
+http://www.supercartube.com/media/videos/h264/430_720p.mp4
+#EXTINF:0,Lagu - Sayang Allah dan Nabi
+http://www.supercartube.com/media/videos/h264/393_720p.mp4
+#EXTINF:0,Lagu - Sayang Mama Papa
+http://www.supercartube.com/media/videos/h264/391_720p.mp4
+#EXTINF:0,Lagu - Sayangi Anak Yatim
+http://www.supercartube.com/media/videos/h264/406_720p.mp4
+#EXTINF:0,Lagu - Seronoknya Berkunjung
+http://www.supercartube.com/media/videos/h264/410_720p.mp4
+#EXTINF:0,Lagu - Seronoknya Puasa
+http://www.supercartube.com/media/videos/h264/400_720p.mp4
+#EXTINF:0,Lagu - Tema Omar dan Hana
+http://www.supercartube.com/media/videos/h264/411_720p.mp4
+#EXTINF:0,Lagu - Terima Kasih
+http://www.supercartube.com/media/videos/h264/418_720p.mp4
+#EXTINF:0,Lagu - Terima Kasih Cikgu
+http://www.supercartube.com/media/videos/h264/389_720p.mp4
+#EXTINF:0,Lagu - Tolong Mama Papa
+http://www.supercartube.com/media/videos/h264/394_720p.mp4
+#EXTINF:0,Lagu - Tolong Menolong
+http://www.supercartube.com/media/videos/h264/407_720p.mp4
+#EXTINF:0,Lagu - Ya Mama Ya Papa
+http://www.supercartube.com/media/videos/h264/431_720p.mp4
+#EXTINF:0,Lagu - Zikir Tidur
+http://www.supercartube.com/media/videos/h264/409_720p.mp4
+#EXTINF:0,Ta
+http://www.supercartube.com/media/videos/h264/402_720p.mp4
+#EXTINF:0,Adit Menang
+http://www.supercartube.com/media/videos/h264/315_1080p.mp4
+#EXTINF:0,E001 - Dompet Ayah Ketinggalan
+http://www.supercartube.com/media/videos/h264/311_1080p.mp4
+#EXTINF:0,E002 - Dompet Ayah (Masih) Ketinggalan
+http://www.supercartube.com/media/videos/h264/312_1080p.mp4
+#EXTINF:0,E003 - Tahu Sumedang Bikin Jarwo Meradang
+http://www.supercartube.com/media/videos/h264/313_1080p.mp4
+#EXTINF:0,E007 - Ojek Payung Bikin Bingung
+http://www.supercartube.com/media/videos/h264/317_1080p.mp4
+#EXTINF:0,E008 - Adit Flu Jarwo Yang Pilu
+http://www.supercartube.com/media/videos/h264/318_1080p.mp4
+#EXTINF:0,E009 - Delivery Order Bikin Keder
+http://www.supercartube.com/media/videos/h264/319_1080p.mp4
+#EXTINF:0,E010 - Service Antena Bikin Terlena
+http://www.supercartube.com/media/videos/h264/320_1080p.mp4
+#EXTINF:0,E011 - Sahabat Sejati Takkan Pernah Mati
+http://www.supercartube.com/media/videos/h264/432_1080p.mp4
+#EXTINF:0,E012 - Lomba Layangan Bikin Semua Melayang
+http://www.supercartube.com/media/videos/h264/433_1080p.mp4
+#EXTINF:0,E013 - Kejutan Buat Jarwo
+http://www.supercartube.com/media/videos/h264/434_1080p.mp4
+#EXTINF:0,E014 - Adel Di Mana
+http://www.supercartube.com/media/videos/h264/435_1080p.mp4
+#EXTINF:0,E015 - Mati Lampu Bergilir
+http://www.supercartube.com/media/videos/h264/436_1080p.mp4
+#EXTINF:0,E016 - Motor Baru Bikin Haru
+http://www.supercartube.com/media/videos/h264/437_1080p.mp4
+#EXTINF:0,E017 - Kursus Masak Bikin Semua Sesak
+http://www.supercartube.com/media/videos/h264/438_1080p.mp4
+#EXTINF:0,E018 - Tugas Patroli Kayak Uji Nyali
+http://www.supercartube.com/media/videos/h264/439_1080p.mp4
+#EXTINF:0,E019 - Tugas Ngasuh Bikin Rusuh
+http://www.supercartube.com/media/videos/h264/440_1080p.mp4
+#EXTINF:0,E020 - Bunda Ngidam Bikin Geram
+http://www.supercartube.com/media/videos/h264/441_1080p.mp4
+#EXTINF:0,E021 - Syukuran Dapet Kerjaan
+http://www.supercartube.com/media/videos/h264/633_1080p.mp4
+#EXTINF:0,E022 - Kabar Burung Bikin Bingung
+http://www.supercartube.com/media/videos/h264/634_1080p.mp4
+#EXTINF:0,E026 - Cinta Merekah di Kampung Berkah
+http://www.supercartube.com/media/videos/h264/638_1080p.mp4
+#EXTINF:0,E040 - Kelebihan Muatan Bikin Kewalahan
+http://www.supercartube.com/media/videos/h264/923_1080p.mp4
+#EXTINF:0,E041 - Petak Umpet Bikin Mumet
+http://www.supercartube.com/media/videos/h264/924_1080p.mp4
+#EXTINF:0,E042 - Keadaan Sulit Jangan Berkelit
+http://www.supercartube.com/media/videos/h264/925_1080p.mp4
+#EXTINF:0,E043 - Ssst... Jangan Berisik Nanti Adel Terusik
+http://www.supercartube.com/media/videos/h264/926_1080p.mp4
+#EXTINF:0,E045 - Jaga Warung Jadi Repot Tak Terbendung
+http://www.supercartube.com/media/videos/h264/928_1080p.mp4
+#EXTINF:0,Jarwo Bimbang
+http://www.supercartube.com/media/videos/h264/914_1080p.mp4
+#EXTINF:0,Jarwo Jadi Senang
+http://www.supercartube.com/media/videos/h264/640_1080p.mp4
+#EXTINF:0,Jarwo Manyun
+http://www.supercartube.com/media/videos/h264/316_1080p.mp4
+#EXTINF:0,Jarwo Senang
+http://www.supercartube.com/media/videos/h264/637_1080p.mp4
+#EXTINF:0,Jarwoku Hilang
+http://www.supercartube.com/media/videos/h264/927_1080p.mp4
+#EXTINF:0,Kampung Geger
+http://www.supercartube.com/media/videos/h264/639_1080p.mp4
+#EXTINF:0,Kang Ujang Bimbang
+http://www.supercartube.com/media/videos/h264/314_1080p.mp4
+#EXTINF:0,Lewati Rintangan
+http://www.supercartube.com/media/videos/h264/915_1080p.mp4
+#EXTINF:0,Siapa Tau Mujur
+http://www.supercartube.com/media/videos/h264/641_1080p.mp4
+#EXTINF:1439,KIMETSU NO YAIBA Episode 001
+http://www.supercartube.com/media/videos/h264/145_360p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 002
+http://www.supercartube.com/media/videos/h264/148_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 003
+http://www.supercartube.com/media/videos/h264/149_360p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 004
+http://www.supercartube.com/media/videos/h264/150_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 005
+http://www.supercartube.com/media/videos/h264/151_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 006
+http://www.supercartube.com/media/videos/h264/152_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 007
+http://www.supercartube.com/media/videos/h264/153_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 008
+http://www.supercartube.com/media/videos/h264/154_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 009
+http://www.supercartube.com/media/videos/h264/155_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 010
+http://www.supercartube.com/media/videos/h264/156_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 011
+http://www.supercartube.com/media/videos/h264/157_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 012
+http://www.supercartube.com/media/videos/h264/158_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 013
+http://www.supercartube.com/media/videos/h264/159_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 014
+http://www.supercartube.com/media/videos/h264/160_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 015
+http://www.supercartube.com/media/videos/h264/161_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 016
+http://www.supercartube.com/media/videos/h264/162_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 017
+http://www.supercartube.com/media/videos/h264/163_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 018
+http://www.supercartube.com/media/videos/h264/164_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 019
+http://www.supercartube.com/media/videos/h264/165_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 020
+http://www.supercartube.com/media/videos/h264/166_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 021
+http://www.supercartube.com/media/videos/h264/167_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 022
+http://www.supercartube.com/media/videos/h264/168_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 023
+http://www.supercartube.com/media/videos/h264/169_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 024
+http://www.supercartube.com/media/videos/h264/170_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 025
+http://www.supercartube.com/media/videos/h264/171_480p.mp4
+#EXTINF:0,KIMETSU NO YAIBA Episode 026
+http://www.supercartube.com/media/videos/h264/172_480p.mp4
+#EXTINF:0,Bebas Aturan Main (1993)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959699
+#EXTINF:0,Bisa Naik Bisa Turun (1991)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959698
+#EXTINF:0,Depan Bisa Belakang Bisa (1987)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959697
+#EXTINF:4771,Pencet Sana Pencet Sini (1994)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959701
+#EXTINF:0,Salah Masuk (1993)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959700
+#EXTINF:32,Fashion TV MIDNIGHT
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:32,Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:0,HD Fashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
